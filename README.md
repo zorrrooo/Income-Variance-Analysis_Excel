@@ -120,3 +120,11 @@ g. Can be applied at the organization level to track and compare departments and
 
 ## Limitations
 Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge 
+
+## Files Included
+
+- Shuffled Data_Variance Analysis_Fix Values
+- Steps for Income Variance Analysis
+- Var.Dashboard
+- recruitment_date_RAW_
+

@@ -1,8 +1,8 @@
 # Employee Income Variance Analysis for Payroll Anomaly Detection
 
+## Dashboard Preview
 
-
-
+![Variance Dashboard](Var.Dashboard.png) 
 
 ## Project Overview
 

@@ -1,9 +1,5 @@
 # Employee Income Variance Analysis for Payroll Anomaly Detection
 
-## Dashboard Preview
-
-![Variance Dashboard](Var.Dashboard.png) 
-
 ## Project Overview
 
 This project analyzes employee income data by comparing base pay with current pay to identify compensation anomalies and inconsistencies. The model helps detect unexpected pay variations, improves payroll transparency, and supports financial oversight through structured variance analysis
@@ -11,6 +7,10 @@ This project analyzes employee income data by comparing base pay with current pa
 ## Business Problem
 
 Organizations managing large payroll datasets may experience inconsistencies in employee compensation due to system errors, delayed updates, or incorrect adjustments. Without a structured monitoring framework, these anomalies may remain undetected. This project aims to develop a simple analytical framework to detect unusual differences between employees’ base pay and current/ actual pay
+
+## Dashboard Preview
+
+![Variance Dashboard](Var.Dashboard.png) 
 
 ## Data Description
 

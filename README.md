@@ -123,8 +123,8 @@ Due to large dataset having 3000 employees, 18 vairables and several tabs, the a
 
 ## Files Included
 
-- Shuffled Data_Variance Analysis_Fix Values
-- Steps for Income Variance Analysis
-- Var.Dashboard
-- recruitment_date_RAW_
+- Shuffled Data_Variance Analysis_Fix Values (Excel)
+- Steps for Income Variance Analysis (PDF)
+- Var.Dashboard (PNG)
+- recruitment_date_RAW_ (CSV/ Excel)
 
